@@ -1,3 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Olá!+Eu+sou+Ronaldo+Rodrigues;)](https://git.io/typing-svg)
+### 👨‍💻 Sobre Mim
+*Apaixonado por tecnologia e programação, com foco em **Python**. Sempre em busca de novos conhecimentos e oportunidades para aplicar em projetos práticos.*
 
-*Sou novo na área de programação, mas estou empolgado para aprender e crescer nessa jornada. Tenho um interesse especial por Python e estou explorando essa linguagem enquanto trabalho em projetos e aprimoro minhas habilidades.*
+---
+
+### 💼 Habilidades
+
+- **Python (Iniciante)**
+
+- **VS Code**
+
+---
+
+### 📬 Contato
+  
+- **Email:** [ronaldorodrigueswork@gmail.com](mailto:ronaldorodrigueswork@gmail.com)
+  
+- **Discord:** odlanorrr
+ 
+- **Instagram:** [ronaldorodrz](https://www.instagram.com/ronaldorodrz/)
