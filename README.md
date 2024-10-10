@@ -7,8 +7,6 @@
 
 - **Python (Iniciante)**
 
-- **VS Code**
-
 ---
 
 ### 📬 Contato
