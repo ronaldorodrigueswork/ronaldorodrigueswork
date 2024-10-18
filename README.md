@@ -12,7 +12,4 @@
 ### 📬 Contato
   
 - **Email:** [ronaldorodrigueswork@gmail.com](mailto:ronaldorodrigueswork@gmail.com)
-  
-- **Discord:** odlanorrr
- 
-- **Instagram:** [ronaldorodrz](https://www.instagram.com/ronaldorodrz/)
+
