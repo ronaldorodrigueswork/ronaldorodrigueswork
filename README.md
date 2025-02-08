@@ -1,15 +1,24 @@
-### 👨‍💻 Sobre Mim
-*Apaixonado por tecnologia e programação, com foco em **Python**. Sempre em busca de novos conhecimentos e oportunidades para aplicar em projetos práticos.*
+<h1 align="center">hey there 👋</h1>
 
----
+###
 
-### 💼 Habilidades
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
 
-- **Python (Iniciante)**
+###
 
----
+<div align="center">
+  <img height="150" src="https://giffiles.alphacoders.com/756/75682.gif"  />
+</div>
 
-### 📬 Contato
-  
-- **Email:** [ronaldorodrigueswork@gmail.com](mailto:ronaldorodrigueswork@gmail.com)
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronaldorodrigueswork&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+</div>
+
+###
