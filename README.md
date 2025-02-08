@@ -12,13 +12,15 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://giffiles.alphacoders.com/756/75682.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ronaldorodrigueswork&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronaldorodrigueswork&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <a href="https://open.spotify.com/user/jpckojssb8g0v0vms8tv73vuh">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jpckojssb8g0v0vms8tv73vuh&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
