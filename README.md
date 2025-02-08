@@ -1,5 +1,4 @@
 ```python
-# 🚀 Developer Profile
 
 class RonaldoRodrigues:
     def __init__(self):
@@ -13,19 +12,16 @@ class RonaldoRodrigues:
 
     def social_links(self):
         return {
-            "Instagram": "Instagram: your_instagram",
-            "LinkedIn": "LinkedIn: your_linkedin",
-            "Gmail": "Gmail: your_email@gmail.com",
-            "Discord": "Discord: your_discord_id"
+            "Instagram": "https://www.instagram.com/ronaldorodrz/",
+            "LinkedIn": "https://www.linkedin.com/in/ronaldo-rodrigues-work",
+            "Gmail": "mailto:ronaldorodrigueswork@gmail.com",
+            "Discord": "https://discord.com/users/rodrizues"
         }
 
-# 🚀 Initialize Ronaldo's Profile
 ronaldo = RonaldoRodrigues()
 
-# 🔧 Show Technologies
 print(ronaldo.show_technologies())
 
-# 🌎 Social Links
 for platform, link in ronaldo.social_links().items():
     print(f"{platform}: {link}")
 
