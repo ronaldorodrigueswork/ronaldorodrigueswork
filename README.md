@@ -1,6 +1,6 @@
 # 👋 Hello, World!
 
-Eu me chamo Ronaldo Rodrigues. Sou novo na área da programação e estou em constante aprendizado para aprimorar minhas habilidades e desenvolver projetos cada vez melhores. Tenho interesse especial em **desenvolvimento web e back-end**, buscando sempre explorar novas tecnologias e boas práticas de codificação.  
+Eu me chamo Ronaldo Rodrigues. Sou novo na área da programação e estou em constante aprendizado para aprimorar minhas habilidades e desenvolver projetos cada vez melhores. Tenho interesse especial em desenvolvimento web e back-end, buscando sempre explorar novas tecnologias e boas práticas de codificação.  
 
 ## 🚀 About Me  
 
