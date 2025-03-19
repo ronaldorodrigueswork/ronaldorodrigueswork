@@ -1,24 +1,31 @@
-# Hello World  
+# 👋 Hello, World!
 
+Eu me chamo Ronaldo Rodrigues. Sou novo na área da programação e estou em constante aprendizado para aprimorar minhas habilidades e desenvolver projetos cada vez melhores. Tenho interesse especial em **desenvolvimento web e back-end**, buscando sempre explorar novas tecnologias e boas práticas de codificação.  
 
-## My name is Ronaldo  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  
+## 🚀 About Me  
 
-I'm currently learning and exploring various programming languages and technologies, including:  
+Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprender e aprimorar minhas habilidades em diversas linguagens de programação e ferramentas. Busco sempre escrever um código limpo e eficiente, seguindo boas práticas de desenvolvimento.  
 
-### 🖥️ Languages I'm Learning:  
+Estou explorando o mundo do desenvolvimento web e back-end, criando pequenos projetos para consolidar meu conhecimento e melhorar minhas habilidades práticas. Além da programação, gosto de desafios e de aprender coisas novas, sempre buscando evoluir e me tornar um profissional cada vez melhor.  
+
+## 🛠️ Technologies  
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
-</p>  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-### 🛠️ Tools I Use:  
+## 🌍 Social Media  
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-</p>    
-
-I'm still learning, but I'm studying hard to improve every day! 🚀  
+  <a href="https://www.instagram.com/seu_perfil" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seu_perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
