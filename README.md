@@ -3,10 +3,8 @@
 Eu me chamo Ronaldo Rodrigues. Sou novo na área da programação e estou em constante aprendizado para aprimorar minhas habilidades e desenvolver projetos cada vez melhores. Tenho interesse especial em desenvolvimento web e back-end, buscando sempre explorar novas tecnologias e boas práticas de codificação.  
 
 ## 🚀 About Me  
-
-Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprender e aprimorar minhas habilidades em diversas linguagens de programação e ferramentas. Busco sempre escrever um código limpo e eficiente, seguindo boas práticas de desenvolvimento.  
-
-Estou explorando o mundo do desenvolvimento web e back-end, criando pequenos projetos para consolidar meu conhecimento e melhorar minhas habilidades práticas. Além da programação, gosto de desafios e de aprender coisas novas, sempre buscando evoluir e me tornar um profissional cada vez melhor.  
+ 
+Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprender e aprimorar minhas habilidades em diversas linguagens de programação e ferramentas. Procuro sempre escrever um código limpo e eficiente, seguindo as melhores práticas de desenvolvimento. Além da programação, gosto de desafios e de aprender coisas novas, buscando constantemente evoluir e me tornar um profissional cada vez melhor.
 
 ## 🛠️ Technologies  
 
