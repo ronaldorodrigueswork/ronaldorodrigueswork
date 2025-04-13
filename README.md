@@ -19,8 +19,3 @@ A passionate web developer focused on both **front-end** and **back-end**. Alway
 ##  GitHub Stats
 
 ![Ronaldo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronaldorodrigueswork&show_icons=true&theme=radical)
-
-##  How to Reach Me
-
-- **Instagram**: [@ronaldorodrz](https://www.instagram.com/ronaldorodrz/)
-- **LinkedIn**: [ronaldorodrigueswork](https://www.linkedin.com/in/ronaldorodrigueswork)
