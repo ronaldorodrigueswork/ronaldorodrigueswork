@@ -1,8 +1,8 @@
 # Hi 👋, I'm Ronaldo Rodrigues
 
-A passionate web developer focused on both **front-end** and **back-end**. Always learning and building projects to enhance my skills and grow as a full-stack developer.
+I am a dedicated web developer with a strong focus on both **front-end** and **back-end** technologies. Constantly improving my skills by building practical projects and striving to grow as a full-stack developer.
 
-##  Technologies & Tools I Use
+## Technologies & Tools I Use
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -16,6 +16,9 @@ A passionate web developer focused on both **front-end** and **back-end**. Alway
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
 </p>
 
-##  GitHub Stats
+## GitHub Stats
 
-![Ronaldo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronaldorodrigueswork&show_icons=true&theme=radical)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronaldorodrigueswork&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+</div>
+
